@@ -21,6 +21,13 @@
 
 <br/>
 
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anandhusajan&style=for-the-badge&color=16a34a&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br/>
+
 ---
 
 ## ✨ What is this?
@@ -40,6 +47,22 @@ You get a **Gemini API key** from [Google AI Studio](https://aistudio.google.com
 | **Model details** | Type, context window, and "Test with your key" in a modal. |
 | **Smart errors** | Optional AI-powered error messages when something goes wrong. |
 | **Sync** | Re-run all checks with one click. |
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+**Entry — Enter your API key**
+
+<img src="screenshots/home.png" alt="Home screen - Gemini API Key Check form" width="700"/>
+
+**Dashboard — Available models and status**
+
+<img src="screenshots/dashboard.png" alt="Dashboard - Available Models table with status" width="700"/>
+
+</div>
 
 ---
 
